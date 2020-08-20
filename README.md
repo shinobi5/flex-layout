@@ -1,6 +1,6 @@
 <h1 align="center">:spider_web: Flex Layout</h1>
 
-<p align="center">Web component for CSS flex layout (zero dependencies).</p>
+<p align="center">Web component for <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/flex">CSS flex layout</a> (zero dependencies).</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
