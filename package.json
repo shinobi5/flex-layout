@@ -1,0 +1,31 @@
+{
+  "name": "@shinobi5/flex-layout",
+  "version": "0.0.0",
+  "description": "Web component for CSS flex layout with zero dependencies",
+  "main": "lib/flex-layout.js",
+  "module": "lib/flex-layout.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "release": "vr build && npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinobi5/flex-layout.git"
+  },
+  "keywords": [
+    "web components",
+    "css",
+    "grid",
+    "layout",
+    "custom",
+    "element"
+  ],
+  "author": "David White",
+  "bugs": {
+    "url": "https://github.com/shinobi5/flex-layout/issues"
+  },
+  "homepage": "https://github.com/shinobi5/flex-layout#readme"
+}
