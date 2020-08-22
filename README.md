@@ -10,7 +10,7 @@
 
 <hr />
 
-## Work in progress...
+Work in progress...
 
 ## Development
 > Project requires [deno](https://deno.land/) and [velociraptor](https://github.com/umbopepato/velociraptor/) to be installed
